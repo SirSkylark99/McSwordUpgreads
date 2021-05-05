@@ -1,0 +1,40 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "NetherForge",
+      "type": "gui",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_forge"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "swordupgreades",
+    "modName": "Sword Upgreades",
+    "version": "1.0.0",
+    "author": "skyla, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "swordupgredes",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
